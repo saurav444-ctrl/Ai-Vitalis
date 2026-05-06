@@ -16,7 +16,7 @@
 
 Vitalis AI is a clinical-grade, modern healthcare chatbot designed to help users analyze symptoms, interact with medical reports, and receive immediate, AI-driven health insights. Built with a premium glassmorphism UI and powered entirely by [Puter.js](https://docs.puter.com/), it offers a seamless, serverless, and highly secure experience.
 
-🚀 **Live Demo:** https://github.com/saurav444-ctrl/Ai-Vitalis
+🚀 **Live Demo:** https://saurav444-ctrl.github.io/Ai-Vitalis/
 
 ---
 
